@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFSMALL0000" x="3" y="746" width="183" height="177" frameX="-2" frameY="-8" frameWidth="185" frameHeight="186"/>
+	<SubTexture name="BFSMALL0001" x="3" y="746" width="183" height="177" frameX="-2" frameY="-8" frameWidth="185" frameHeight="186"/>
+	<SubTexture name="BFSMALL0002" x="3" y="565" width="184" height="178" frameX="-1" frameY="-8" frameWidth="185" frameHeight="186"/>
+	<SubTexture name="BFSMALL0003" x="3" y="565" width="184" height="178" frameX="-1" frameY="-8" frameWidth="185" frameHeight="186"/>
+	<SubTexture name="BFSMALL0004" x="3" y="381" width="183" height="181" frameX="-1" frameY="-5" frameWidth="185" frameHeight="186"/>
+	<SubTexture name="BFSMALL0005" x="3" y="381" width="183" height="181" frameX="-1" frameY="-5" frameWidth="185" frameHeight="186"/>
+	<SubTexture name="BFSMALL0006" x="3" y="3" width="185" height="186"/>
+	<SubTexture name="BFSMALL0007" x="3" y="3" width="185" height="186"/>
+	<SubTexture name="BFSMALL0008" x="3" y="192" width="185" height="186"/>
+	<SubTexture name="BFSMALL0009" x="3" y="192" width="185" height="186"/>
+	<SubTexture name="BFSMALL0010" x="3" y="192" width="185" height="186"/>
+	<SubTexture name="BFSMALL0011" x="3" y="192" width="185" height="186"/>
+	<SubTexture name="BFSMALL0012" x="3" y="192" width="185" height="186"/>
+	<SubTexture name="BFSMALL0013" x="3" y="192" width="185" height="186"/>
+</TextureAtlas>

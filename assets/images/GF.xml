@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFSMALL0000" x="639" y="1452" width="315" height="286" frameX="-1" frameY="-7" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0001" x="321" y="1747" width="317" height="286" frameX="0" frameY="-7" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0002" x="639" y="583" width="317" height="286" frameX="0" frameY="-7" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0003" x="641" y="1741" width="315" height="286" frameX="-1" frameY="-7" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0004" x="641" y="3" width="315" height="287" frameX="-1" frameY="-6" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0005" x="641" y="293" width="315" height="287" frameX="-1" frameY="-6" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0006" x="321" y="583" width="315" height="288" frameX="-1" frameY="-5" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0007" x="3" y="299" width="315" height="292" frameX="-1" frameY="-1" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0008" x="3" y="299" width="315" height="292" frameX="-1" frameY="-1" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0009" x="3" y="299" width="315" height="292" frameX="-1" frameY="-1" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0010" x="3" y="3" width="315" height="293" frameX="-1" frameY="0" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0011" x="3" y="3" width="315" height="293" frameX="-1" frameY="0" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0012" x="3" y="3" width="315" height="293" frameX="-1" frameY="0" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0013" x="3" y="594" width="315" height="292" frameX="-1" frameY="-1" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0014" x="3" y="594" width="315" height="292" frameX="-1" frameY="-1" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0015" x="639" y="872" width="315" height="287" frameX="-1" frameY="-6" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0016" x="321" y="3" width="317" height="287" frameX="0" frameY="-6" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0017" x="321" y="293" width="317" height="287" frameX="0" frameY="-6" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0018" x="639" y="1162" width="315" height="287" frameX="-1" frameY="-6" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0019" x="321" y="874" width="315" height="288" frameX="-1" frameY="-5" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0020" x="321" y="1165" width="315" height="288" frameX="-1" frameY="-5" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0021" x="321" y="1456" width="315" height="288" frameX="-1" frameY="-5" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0022" x="3" y="889" width="315" height="290" frameX="-1" frameY="-3" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0023" x="3" y="889" width="315" height="290" frameX="-1" frameY="-3" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0024" x="3" y="889" width="315" height="290" frameX="-1" frameY="-3" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0025" x="3" y="1182" width="315" height="290" frameX="-1" frameY="-3" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0026" x="3" y="1182" width="315" height="290" frameX="-1" frameY="-3" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0027" x="3" y="1182" width="315" height="290" frameX="-1" frameY="-3" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0028" x="3" y="1475" width="315" height="290" frameX="-1" frameY="-3" frameWidth="317" frameHeight="293"/>
+	<SubTexture name="GFSMALL0029" x="3" y="1475" width="315" height="290" frameX="-1" frameY="-3" frameWidth="317" frameHeight="293"/>
+</TextureAtlas>
